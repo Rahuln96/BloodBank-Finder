@@ -1,0 +1,30 @@
+.bg1{
+  background-image: url(../public/img/b.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.bg1 h1{
+  color: rgb(167, 11, 11);
+  font-size: 80px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 150px;
+}
+.bg1 p{
+  color: white;
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 150px;
+}
+.bg2{
+  margin: 50px;
+}
+.bg2 h2{
+  color: rgb(163, 2, 2);
+  font-size: 50px;
+  font-weight: 400;
+  text-align: center;
+ 
+}
